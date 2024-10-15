@@ -25,6 +25,7 @@ RESEARCH OBJECTIVES:
 
 a): Quantify the correlation between user engagement (reviews, tips, check-ins) and review count/average star rating.
 b): Analyze the impact of sentiment on review count and average star rating.
+
 c): Time Trends in User Engagement
 
 2. Do restaurants with higher engagement tend to have higher ratings?
