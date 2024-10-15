@@ -15,7 +15,12 @@ The JSON files are stored in the database for easy retrieval of data.
 Yelp-Review-Analysis
 Dataset Link: https://www.kaggle.com/yelp-dataset/yelp-dataset
 
-1. Overall Project Objectives (PROBLEM STATEMENT)
+# Attributes of business table are as following:
+
+![image](https://github.com/user-attachments/assets/95419269-b5a3-4122-939c-cd1ca299d460)
+
+# Overall Project Objectives 
+1. (PROBLEM STATEMENT)
 RESEARCH OBJECTIVES:
 
 a): Quantify the correlation between user engagement (reviews, tips, check-ins) and review count/average star rating.
@@ -42,8 +47,6 @@ c): Time Trends in User Engagement
 
 
 
-Attributes of business table are as following:
 
-![image](https://github.com/user-attachments/assets/95419269-b5a3-4122-939c-cd1ca299d460)
 
 
